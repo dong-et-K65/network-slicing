@@ -11,7 +11,7 @@ There are many hash functions that use numeric or alphanumeric keys. THis articl
 4. __Multiplicatoin Method__
 ### 1. Division Method
 This is the most simple and easiest method to generate a hash value. The hash function divides the value k by M and then uses the remainder obtained.  
-__Formula :__
+__Formula:__
 > $\text{h(K) = K mod M}$  
 > Here,  
 > $\text{K}$ is the __key value__  
