@@ -2,7 +2,7 @@
 - __Hashing__ is the process of generating a value from a text or a list of numbers using a mathematical function known as a _hash function_.  
 - A __Hash Function__ is a funtion that converts a given numeric or alphanumeric key to a small practical integer value. The mapped integer value is used as an index in the __hash table__.  
 - For example, given an array $\text{A}$, if i is the key, then we can find the value by simply looking up $\text{A[i]}$.  
-![](hashing-picture-1.png)
+![](hashing-problem/image/hashing-picture-1.png)
 ## Types of Hash functions
 There are many hash functions that use numeric or alphanumeric keys. THis article focuses on discussing different hash functions:  
 1. __Division Method__
